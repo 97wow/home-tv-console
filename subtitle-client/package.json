@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "opensubs-cli": "^0.1.1"
+  },
+  "allowScripts": {
+    "keytar@7.9.0": true,
+    "platform-folders@0.5.4": true
+  }
+}
