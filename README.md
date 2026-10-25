@@ -143,6 +143,15 @@ python -m compileall -q server.py streaming.py subtitles.py downloader.py config
 
 测试使用临时配置和片库，不连接真实电视、不读取个人下载记录。覆盖路径限制、请求来源校验、HTTP Range、已验证数据块等待、播放排队、下载任务持久化等。真实电视与字幕服务的验收仍需实际设备和网络。
 
+## 赞助商与友情链接
+
+感谢以下赞助商对本项目的支持：
+
+| 网站 | 身份 |
+| --- | --- |
+| [llmapi.pro](https://llmapi.pro) | 赞助商 |
+| [3api.pro](https://3api.pro) | 赞助商 |
+
 ## 开源许可
 
 项目源码使用 [MIT License](LICENSE)。ADB、Kodi、libtorrent 和 OpenSubtitles 客户端分别遵循其各自许可；本仓库仅集成接口和依赖，不重新分发这些程序或媒体内容。
